@@ -1,4 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: tomato;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
 }
